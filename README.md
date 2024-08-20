@@ -1,4 +1,4 @@
-# ResuLLMe [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://resullme.streamlit.app/) [![](https://img.shields.io/github/license/IvanIsCoding/ResuLLMe)](https://github.com/IvanIsCoding/ResuLLMe/blob/main/LICENSE) ![](https://img.shields.io/badge/code%20style-black-black)
+# ResumeEnhancer
 
 ---
 
@@ -19,15 +19,6 @@ ResuLLMe receives your previous CV as a PDF or Word Document. Then, it uses LLMs
 * Convert the résumés to a JSON Resume format
 * Render the JSON resume using LaTeX to generate a new PDF of the enhanced resume
 
-## 🏃 Running
-
-To run ResuLLMe locally, the simplest way is to use Docker:
-
-```
-docker-compose up -d
-```
-
-This will make the app avaialable at [`https://localhost:8501/`](https://localhost:8501/)
 
 ### 🪄 Installation Instructions for Running Natively
 
