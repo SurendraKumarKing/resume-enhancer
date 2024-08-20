@@ -6,8 +6,6 @@
 
 ResuLLMe is a prototype that uses Large Language Models (LLMs) to tailor résumés. It's goal is to enhance résumés to help candidates avoid common mistakes that occur while applying for jobs. It is like a smart career advisor to check your résumé.
 
-You can use ResuLLMe live at [https://resullme.streamlit.app/](https://resullme.streamlit.app/).
-
 ## 🛠 How It Works
 
 ResuLLMe receives your previous CV as a PDF or Word Document. Then, it uses LLMs to:
